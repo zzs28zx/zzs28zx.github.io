@@ -6,4 +6,6 @@
 
 这个网站建设的全程全匿名，没有透露任何个人信息。
 
-## 真正的内容————图片
+## 真正的内容———图片
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
